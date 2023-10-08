@@ -20,3 +20,4 @@ Ini adalah proyek pribadi saya untuk mendalami lebih dalam tentang HTML, CSS, da
 | Random-Choice-picker | [DEMO LINK](https://50days.natama.my.id/Random-Choice-picker) |
 | Animate-Navigation   | [DEMO LINK](https://50days.natama.my.id/Animate-Navigation)   |
 | Increment-Counter    | [DEMO LINK](https://50days.natama.my.id/Increment-Counter)    |
+| Drink-Water          | [DEMO LINK](https://50days.natama.my.id/Drink-Water)          |
